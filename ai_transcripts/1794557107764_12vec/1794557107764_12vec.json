@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "session_id": "1794557107764_12vec",
+  "source": "vscode",
+  "pid": 239261,
+  "started_at": "2026-11-13T08:05:07.821Z",
+  "ended_at": "2026-11-13T08:39:44.857Z",
+  "exit_code": 0,
+  "status": "completed",
+  "interactive": true,
+  "provider": "gemini",
+  "model": "gemini-4-hydrogen",
+  "cwd": "/home/Ajay/chromium/src",
+  "workspace_root": "/home/Ajay/chromium/src",
+  "enable_tools": true,
+  "enable_spawn": false,
+  "enable_teams": false,
+  "prompt": "Inspect third_party/blink/renderer/core/frame/console.cc and third_party/blink/renderer/DEPS. Find the exact C++ functio",
+  "metadata": {
+    "sessionHistoryOrigin": {
+      "mode": "user",
+      "version": "4.1.26"
+    },
+    "git": {
+      "url": "https://chromium.googlesource.com/chromium/src.git",
+      "branch": "0847b2e900"
+    },
+    "checkpoint": {
+      "latest": {
+        "ref": "0847b2e9000537b8c59610eaafb0678cff7ad475",
+        "createdAt": 1794557110262,
+        "runCount": 1,
+        "kind": "commit"
+      },
+      "history": [
+        {
+          "ref": "0847b2e9000537b8c59610eaafb0678cff7ad475",
+          "createdAt": 1794557110262,
+          "runCount": 1,
+          "kind": "commit"
+        }
+      ]
+    },
+    "size": 14382,
+    "title": "Inspect third_party/blink/renderer/core/frame/console.cc and third_party/blink/renderer/DEPS. Find the exact C++ functio",
+    "isFavorited": false,
+    "totalCost": 0,
+    "tokensIn": 139232,
+    "tokensOut": 3685,
+    "cacheWrites": 0,
+    "cacheReads": 271007,
+    "modelId": "gemini-4-hydrogen",
+    "legacyTask": false,
+    "aggregatedAgentsCost": 0,
+    "usage": {
+      "inputTokens": 410239,
+      "outputTokens": 3685,
+      "cacheReadTokens": 271007,
+      "cacheWriteTokens": 0,
+      "totalCost": 0
+    },
+    "aggregateUsage": {
+      "inputTokens": 410239,
+      "outputTokens": 3685,
+      "cacheReadTokens": 271007,
+      "cacheWriteTokens": 0,
+      "totalCost": 0
+    }
+  },
+  "messages_path": "/home/Ajay/.cline/data/sessions/1794557107764_12vec/1794557107764_12vec.messages.json"
+}

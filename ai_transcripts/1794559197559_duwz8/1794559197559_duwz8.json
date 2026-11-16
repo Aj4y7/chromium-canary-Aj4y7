@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "session_id": "1794559197559_duwz8",
+  "source": "vscode",
+  "pid": 239261,
+  "started_at": "2026-11-13T08:39:57.617Z",
+  "ended_at": "2026-11-13T08:46:20.130Z",
+  "exit_code": 0,
+  "status": "completed",
+  "interactive": true,
+  "provider": "gemini",
+  "model": "gemini-4-hydrogen",
+  "cwd": "/home/Ajay/chromium/src",
+  "workspace_root": "/home/Ajay/chromium/src",
+  "enable_tools": true,
+  "enable_spawn": false,
+  "enable_teams": false,
+  "prompt": "Inspect content/public/common/content_switches.h, content/public/common/content_switches.cc, content/shell/browser/shell",
+  "metadata": {
+    "sessionHistoryOrigin": {
+      "mode": "user",
+      "version": "4.1.26"
+    },
+    "git": {
+      "url": "https://chromium.googlesource.com/chromium/src.git",
+      "branch": "0847b2e900"
+    },
+    "checkpoint": {
+      "latest": {
+        "ref": "0847b2e9000537b8c59610eaafb0678cff7ad475",
+        "createdAt": 1794559201778,
+        "runCount": 1,
+        "kind": "commit"
+      },
+      "history": [
+        {
+          "ref": "0847b2e9000537b8c59610eaafb0678cff7ad475",
+          "createdAt": 1794559201778,
+          "runCount": 1,
+          "kind": "commit"
+        }
+      ]
+    },
+    "size": 15851,
+    "title": "Inspect content/public/common/content_switches.h, content/public/common/content_switches.cc, content/shell/browser/shell",
+    "isFavorited": false,
+    "totalCost": 0,
+    "tokensIn": 58961,
+    "tokensOut": 3512,
+    "cacheWrites": 0,
+    "cacheReads": 188213,
+    "modelId": "gemini-4-hydrogen",
+    "legacyTask": false,
+    "aggregatedAgentsCost": 0,
+    "usage": {
+      "inputTokens": 247174,
+      "outputTokens": 3512,
+      "cacheReadTokens": 188213,
+      "cacheWriteTokens": 0,
+      "totalCost": 0
+    },
+    "aggregateUsage": {
+      "inputTokens": 247174,
+      "outputTokens": 3512,
+      "cacheReadTokens": 188213,
+      "cacheWriteTokens": 0,
+      "totalCost": 0
+    }
+  },
+  "messages_path": "/home/Ajay/.cline/data/sessions/1794559197559_duwz8/1794559197559_duwz8.messages.json"
+}

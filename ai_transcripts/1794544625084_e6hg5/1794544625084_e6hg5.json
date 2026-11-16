@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "session_id": "1794544625084_e6hg5",
+  "source": "vscode",
+  "pid": 38630,
+  "started_at": "2026-11-13T04:37:05.141Z",
+  "ended_at": "2026-11-13T08:03:31.293Z",
+  "exit_code": 1,
+  "status": "failed",
+  "interactive": true,
+  "provider": "gemini",
+  "model": "gemini-4-hydrogen",
+  "cwd": "/home/Ajay/CP",
+  "workspace_root": "/home/Ajay/CP",
+  "enable_tools": true,
+  "enable_spawn": false,
+  "enable_teams": false,
+  "prompt": "hey, which model are you",
+  "metadata": {
+    "sessionHistoryOrigin": {
+      "mode": "user",
+      "version": "4.1.26"
+    },
+    "git": {
+      "url": "@github.com:Aj4y7/poissonSIM.git",
+      "branch": "main"
+    },
+    "checkpoint": {
+      "latest": {
+        "ref": "a4aace0a39595da37ef0a476d6a16d79a9c84916",
+        "createdAt": 1794544626861,
+        "runCount": 1,
+        "kind": "stash"
+      },
+      "history": [
+        {
+          "ref": "a4aace0a39595da37ef0a476d6a16d79a9c84916",
+          "createdAt": 1794544626861,
+          "runCount": 1,
+          "kind": "stash"
+        }
+      ]
+    },
+    "size": 10733,
+    "title": "hey, which model are you",
+    "isFavorited": false,
+    "totalCost": 0,
+    "tokensIn": 2814,
+    "tokensOut": 38,
+    "cacheWrites": 0,
+    "cacheReads": 0,
+    "modelId": "gemini-4-hydrogen",
+    "legacyTask": false,
+    "aggregatedAgentsCost": 0,
+    "usage": {
+      "inputTokens": 2814,
+      "outputTokens": 38,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "totalCost": 0
+    },
+    "aggregateUsage": {
+      "inputTokens": 2814,
+      "outputTokens": 38,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "totalCost": 0
+    },
+    "terminal_marker": "failed_external_process_exit",
+    "terminal_marker_at": "2026-11-13T08:03:31.293Z",
+    "terminal_marker_pid": 38630,
+    "terminal_marker_source": "stale_session_reconciler"
+  },
+  "messages_path": "/home/Ajay/.cline/data/sessions/1794544625084_e6hg5/1794544625084_e6hg5.messages.json"
+}

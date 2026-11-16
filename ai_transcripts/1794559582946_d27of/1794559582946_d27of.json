@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "session_id": "1794559582946_d27of",
+  "source": "vscode",
+  "pid": 239261,
+  "started_at": "2026-11-13T08:46:23.005Z",
+  "ended_at": "2026-11-13T08:49:47.988Z",
+  "exit_code": 1,
+  "status": "failed",
+  "interactive": true,
+  "provider": "gemini",
+  "model": "gemini-3.8-flash",
+  "cwd": "/home/Ajay/chromium/src",
+  "workspace_root": "/home/Ajay/chromium/src",
+  "enable_tools": true,
+  "enable_spawn": false,
+  "enable_teams": false,
+  "prompt": "Edit third_party/blink/renderer/core/frame/frame_console.cc to implement the console.warn canary hook:\n1. Include \"base/",
+  "metadata": {
+    "sessionHistoryOrigin": {
+      "mode": "user",
+      "version": "4.1.26"
+    },
+    "git": {
+      "url": "https://chromium.googlesource.com/chromium/src.git",
+      "branch": "0847b2e900"
+    },
+    "checkpoint": {
+      "latest": {
+        "ref": "0847b2e9000537b8c59610eaafb0678cff7ad475",
+        "createdAt": 1794559585423,
+        "runCount": 1,
+        "kind": "commit"
+      },
+      "history": [
+        {
+          "ref": "0847b2e9000537b8c59610eaafb0678cff7ad475",
+          "createdAt": 1794559585423,
+          "runCount": 1,
+          "kind": "commit"
+        }
+      ]
+    },
+    "size": 14173,
+    "title": "Edit third_party/blink/renderer/core/frame/frame_console.cc to implement the console.warn canary hook:\n1. Include \"base/",
+    "isFavorited": false,
+    "totalCost": 0,
+    "tokensIn": 16839,
+    "tokensOut": 653,
+    "cacheWrites": 0,
+    "cacheReads": 24188,
+    "modelId": "gemini-4-hydrogen",
+    "legacyTask": false,
+    "aggregatedAgentsCost": 0,
+    "usage": {
+      "inputTokens": 41027,
+      "outputTokens": 653,
+      "cacheReadTokens": 24188,
+      "cacheWriteTokens": 0,
+      "totalCost": 0
+    },
+    "aggregateUsage": {
+      "inputTokens": 41027,
+      "outputTokens": 653,
+      "cacheReadTokens": 24188,
+      "cacheWriteTokens": 0,
+      "totalCost": 0
+    }
+  },
+  "messages_path": "/home/Ajay/.cline/data/sessions/1794559582946_d27of/1794559582946_d27of.messages.json"
+}

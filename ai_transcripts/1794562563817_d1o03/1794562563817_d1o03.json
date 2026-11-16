@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "session_id": "1794562563817_d1o03",
+  "source": "vscode",
+  "pid": 239261,
+  "started_at": "2026-11-13T09:36:03.880Z",
+  "ended_at": "2026-11-13T12:08:24.211Z",
+  "exit_code": 0,
+  "status": "completed",
+  "interactive": true,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "cwd": "/home/Ajay/chromium/src",
+  "workspace_root": "/home/Ajay/chromium/src",
+  "enable_tools": true,
+  "enable_spawn": false,
+  "enable_teams": false,
+  "prompt": "Do NOT search the codebase. Read ONLY lines 65-115 of content/shell/browser/shell_content_browser_client.cc and lines 18",
+  "metadata": {
+    "sessionHistoryOrigin": {
+      "mode": "user",
+      "version": "4.1.26"
+    },
+    "git": {
+      "url": "https://chromium.googlesource.com/chromium/src.git",
+      "branch": "0847b2e900"
+    },
+    "checkpoint": {
+      "latest": {
+        "ref": "1993c0d1b2833ef3c3a7120796f031355f0bc53b",
+        "createdAt": 1794562571050,
+        "runCount": 1,
+        "kind": "stash"
+      },
+      "history": [
+        {
+          "ref": "1993c0d1b2833ef3c3a7120796f031355f0bc53b",
+          "createdAt": 1794562571050,
+          "runCount": 1,
+          "kind": "stash"
+        }
+      ]
+    },
+    "size": 17788,
+    "title": "Do NOT search the codebase. Read ONLY lines 65-115 of content/shell/browser/shell_content_browser_client.cc and lines 18",
+    "isFavorited": false,
+    "totalCost": 0.040409020000000004,
+    "tokensIn": 57733,
+    "tokensOut": 1989,
+    "cacheWrites": 0,
+    "cacheReads": 209304,
+    "modelId": "gemini-3.5-flash-lite",
+    "legacyTask": false,
+    "aggregatedAgentsCost": 0.040409020000000004,
+    "usage": {
+      "inputTokens": 267037,
+      "outputTokens": 1989,
+      "cacheReadTokens": 209304,
+      "cacheWriteTokens": 0,
+      "totalCost": 0.040409020000000004
+    },
+    "aggregateUsage": {
+      "inputTokens": 267037,
+      "outputTokens": 1989,
+      "cacheReadTokens": 209304,
+      "cacheWriteTokens": 0,
+      "totalCost": 0.040409020000000004
+    }
+  },
+  "messages_path": "/home/Ajay/.cline/data/sessions/1794562563817_d1o03/1794562563817_d1o03.messages.json"
+}

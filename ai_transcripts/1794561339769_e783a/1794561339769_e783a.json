@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "session_id": "1794561339769_e783a",
+  "source": "vscode",
+  "pid": 239261,
+  "started_at": "2026-11-13T09:15:39.826Z",
+  "ended_at": "2026-11-13T09:36:00.078Z",
+  "exit_code": 0,
+  "status": "completed",
+  "interactive": true,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "cwd": "/home/Ajay/chromium/src",
+  "workspace_root": "/home/Ajay/chromium/src",
+  "enable_tools": true,
+  "enable_spawn": false,
+  "enable_teams": false,
+  "prompt": "Do NOT search the codebase and do NOT read lines outside the ranges below.\n1. Read ONLY lines 130-145 of content/public/",
+  "metadata": {
+    "sessionHistoryOrigin": {
+      "mode": "user",
+      "version": "4.1.26"
+    },
+    "git": {
+      "url": "https://chromium.googlesource.com/chromium/src.git",
+      "branch": "0847b2e900"
+    },
+    "checkpoint": {
+      "latest": {
+        "ref": "55de81019760bdc8160196f859399edeff5d8f77",
+        "createdAt": 1794561345270,
+        "runCount": 1,
+        "kind": "stash"
+      },
+      "history": [
+        {
+          "ref": "55de81019760bdc8160196f859399edeff5d8f77",
+          "createdAt": 1794561345270,
+          "runCount": 1,
+          "kind": "stash"
+        }
+      ]
+    },
+    "size": 19570,
+    "title": "Do NOT search the codebase and do NOT read lines outside the ranges below.\n1. Read ONLY lines 130-145 of content/public/",
+    "isFavorited": false,
+    "totalCost": 0.02235481,
+    "tokensIn": 19383,
+    "tokensOut": 1664,
+    "cacheWrites": 0,
+    "cacheReads": 16247,
+    "modelId": "gemini-3.5-flash-lite",
+    "legacyTask": false,
+    "aggregatedAgentsCost": 0.02235481,
+    "usage": {
+      "inputTokens": 35630,
+      "outputTokens": 1664,
+      "cacheReadTokens": 16247,
+      "cacheWriteTokens": 0,
+      "totalCost": 0.02235481
+    },
+    "aggregateUsage": {
+      "inputTokens": 35630,
+      "outputTokens": 1664,
+      "cacheReadTokens": 16247,
+      "cacheWriteTokens": 0,
+      "totalCost": 0.02235481
+    }
+  },
+  "messages_path": "/home/Ajay/.cline/data/sessions/1794561339769_e783a/1794561339769_e783a.messages.json"
+}
